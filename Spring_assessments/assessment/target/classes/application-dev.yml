@@ -1,0 +1,5 @@
+spring:
+  message: Hello this profilers example
+
+server:
+  port: 8081
